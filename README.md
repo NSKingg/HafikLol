@@ -2,11 +2,9 @@
 
 <p align="center"><img src="RiftRadar/Assets/CatLogo.png" alt="HafikLol" width="140" /></p>
 
-League of Legends için yerel Windows uygulaması. C# / WPF arayüzü; tarayıcı motoru veya web arayüzü kullanmaz.
-
 ## İndir ve kullan
 
-**[Windows uygulamasını indir](https://github.com/NSKingg/HafikLol/releases/latest)** — `HafikLol.exe` dosyasını aç. .NET çalışma zamanı EXE’ye dahildir.
+**[HafikLol'u Windows icin indir](https://github.com/NSKingg/HafikLol/releases/latest)** — `HafikLol.exe` dosyasını aç. 
 
 Oyuncu aramak için Ayarlar’dan kendi sunucu adresini ve kişisel davet kodunu bir kez ekle. Bu depo herkese açık bir Riot API hizmeti veya davet kodu içermez. Kendi grubun için sunucu kurulumunu aşağıda bulabilirsin.
 
@@ -23,24 +21,6 @@ Oyuncu aramak için Ayarlar’dan kendi sunucu adresini ve kişisel davet kodunu
 - Kedi logosuna tıklayınca küçük bir sürpriz.
 
 Veri kapsamı Riot API’sinin sağladığı alanlara bağlıdır. Olası pre göstergeleri, geçmişte birlikte oynanan maçlardan çıkarılır; kesin parti bilgisi değildir.
-
-## Kaynaktan derle
-
-Gereksinim: Windows ve **.NET 10 SDK**.
-
-```powershell
-./build.ps1
-```
-
-Çıktı: `dist/RiftRadar.exe`. Dağıtımda dosya `HafikLol.exe` olarak adlandırılabilir. Dahili proje ve veri klasörü adları uyumluluk için RiftRadar olarak korunur.
-
-Yerel testler:
-
-```powershell
-./dist/RiftRadar.exe --self-test --report test-results.json
-```
-
-Son doğrulamada 48 masaüstü testi geçti. Testler sahte HTTP yanıtlarını ve yerel pencere akışlarını kullanır.
 
 ## Sunucu
 
