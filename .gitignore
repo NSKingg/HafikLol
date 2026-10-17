@@ -1,0 +1,25 @@
+# Build outputs
+**/bin/
+**/obj/
+_build/
+dist/
+artifacts/
+*.exe
+*.pdb
+RiftRadar/Assets/backend.bin.gz
+RiftRadar/Assets/backend.sha256
+# Local state and credentials
+**/node_modules/
+**/.wrangler/
+**/private/
+**/invitations/
+*.dpapi
+*.rrconnection
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+players.json
+preferences.json
+**/cache/
+.vs/

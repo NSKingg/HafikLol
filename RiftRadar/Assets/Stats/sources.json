@@ -1,0 +1,156 @@
+{
+  "source": "https://raw.communitydragon.org/latest/game/assets/ux/fonts/texticons.png",
+  "note": "Original Riot game pixels. Cropped without recoloring.",
+  "rectangles": {
+    "mana": [
+      0,
+      0,
+      22,
+      22
+    ],
+    "manaregen": [
+      23,
+      0,
+      48,
+      22
+    ],
+    "magicpen": [
+      48,
+      0,
+      73,
+      22
+    ],
+    "magicresist": [
+      73,
+      0,
+      96,
+      22
+    ],
+    "movementspeed": [
+      96,
+      0,
+      121,
+      23
+    ],
+    "tenacity": [
+      121,
+      0,
+      144,
+      23
+    ],
+    "attackdamage": [
+      0,
+      24,
+      23,
+      46
+    ],
+    "lifesteal": [
+      24,
+      24,
+      48,
+      46
+    ],
+    "criticalstrike": [
+      73,
+      24,
+      95,
+      46
+    ],
+    "abilitypower": [
+      96,
+      24,
+      120,
+      46
+    ],
+    "armor": [
+      0,
+      48,
+      23,
+      71
+    ],
+    "attackspeed": [
+      24,
+      48,
+      48,
+      71
+    ],
+    "abilityhaste": [
+      49,
+      48,
+      73,
+      71
+    ],
+    "damage": [
+      73,
+      48,
+      96,
+      71
+    ],
+    "health": [
+      96,
+      48,
+      120,
+      71
+    ],
+    "physicalpen": [
+      96,
+      72,
+      121,
+      96
+    ],
+    "healthregen": [
+      0,
+      96,
+      23,
+      119
+    ],
+    "gold": [
+      48,
+      96,
+      72,
+      119
+    ],
+    "generic": [
+      48,
+      120,
+      72,
+      143
+    ],
+    "participation": [
+      96,
+      120,
+      120,
+      143
+    ],
+    "vision": [
+      48,
+      144,
+      72,
+      167
+    ],
+    "duration": [
+      120,
+      144,
+      144,
+      167
+    ],
+    "shield": [
+      72,
+      264,
+      96,
+      286
+    ],
+    "kills": [
+      96,
+      264,
+      121,
+      286
+    ],
+    "level": [
+      48,
+      264,
+      72,
+      286
+    ]
+  }
+}

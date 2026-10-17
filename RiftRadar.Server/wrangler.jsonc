@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hafiklol-api",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-17",
+  "workers_dev": true,
+  "observability": { "enabled": false },
+  "durable_objects": { "bindings": [{ "name": "RIOT_GATE", "class_name": "RiotGate" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["RiotGate"] }]
+}

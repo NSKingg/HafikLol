@@ -1,0 +1,57 @@
+[
+  {
+    "tier": "iron",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-iron.png",
+    "sha256": "79e2919d4d90c7a8b4d0b4245085c4a9126414d32bd4983505c570dd8a06dcc5"
+  },
+  {
+    "tier": "bronze",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-bronze.png",
+    "sha256": "53abaaa8f84c24a1b34b2894fa5f8b17404b9b0e367dcadbf2bed8b7af222a17"
+  },
+  {
+    "tier": "silver",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-silver.png",
+    "sha256": "d1827eccb843622f7642895ad53fec4e1a61658f85c2877638e6096c663ee20f"
+  },
+  {
+    "tier": "gold",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-gold.png",
+    "sha256": "b51b41766e42fdb93df7a7c2f88bc6421f060922a066513f94cfe2aa733efee7"
+  },
+  {
+    "tier": "platinum",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-platinum.png",
+    "sha256": "9d9c7169eda30ecd97608850b6b0972a3d2b8079de9d16408736983acacf8d56"
+  },
+  {
+    "tier": "emerald",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-emerald.png",
+    "sha256": "ca72a2cfb17670a0a9f89526abf119a37d2d40def6ca46b5561e2c9b99fe942d"
+  },
+  {
+    "tier": "diamond",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-diamond.png",
+    "sha256": "24ef7b706ab6bf9c4ba508b830317e1a2efd82fa9c69d710bfc4c01b7d6fab1f"
+  },
+  {
+    "tier": "master",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-master.png",
+    "sha256": "41895e7e9026521b1b51912c040910dacfd735802c3437aca258b3cd4ecd370d"
+  },
+  {
+    "tier": "grandmaster",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-grandmaster.png",
+    "sha256": "5b980545bf13ff07b0e28a1f35e1a050d301e6f890be756e27cee47158f53d50"
+  },
+  {
+    "tier": "challenger",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-emblem/emblem-challenger.png",
+    "sha256": "a0bce03a7c884d9342eed3a674a9ec27bd0881d45565a9ed1fa34c0a27196b56"
+  },
+  {
+    "tier": "unranked",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/images/ranked-mini-crests/unranked.png",
+    "sha256": "0e83c6d00d8287d96a31e84cfd89517e5215f0d79b4d75fc667ab247d5bb5b42"
+  }
+]

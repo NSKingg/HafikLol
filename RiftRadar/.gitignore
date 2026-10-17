@@ -1,0 +1,6 @@
+bin/
+obj/
+Assets/backend.bin.gz
+Assets/backend.sha256
+Assets/RiftRadar.Backend.exe
+*.user

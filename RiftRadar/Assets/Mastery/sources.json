@@ -1,0 +1,67 @@
+[
+  {
+    "file": "Mastery/level-0.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level0.png",
+    "sha256": "0c5cac1c8ffb0160ec8463f44ac75f5c33072d1183cd76cd580c9e06842384fc"
+  },
+  {
+    "file": "Mastery/level-4.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level4.png",
+    "sha256": "44700d4dbc8aab10eda62e6b738acf89597b9116ad17c8f01cc695867b62eb9d"
+  },
+  {
+    "file": "Mastery/level-5.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level5.png",
+    "sha256": "7b86db322d1178740bbdc7c9af917338bba63f8fa8beeb4ff6a29ebe5540aa1f"
+  },
+  {
+    "file": "Mastery/level-6.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level6.png",
+    "sha256": "5ef7ac8e2de15ce13b3f43491c2c3f90d4adacafd3e63c3e8519f5deb756231a"
+  },
+  {
+    "file": "Mastery/level-7.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level7.png",
+    "sha256": "942a2a4189b9424084f43f557c1b699811567e0d37fc7f1d8873c2c0d6dfcaf9"
+  },
+  {
+    "file": "Mastery/level-8.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level8.png",
+    "sha256": "30f3f785ec4d001eb4cfc400fb353ed5485211eea26e0c480c007aea1df44d53"
+  },
+  {
+    "file": "Mastery/level-9.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level9.png",
+    "sha256": "fb31780b304834797e23579265c977c59f5f0eacf2758a3c422571e6738c15a9"
+  },
+  {
+    "file": "Mastery/level-10.png",
+    "url": "https://raw.communitydragon.org/latest/game/assets/ux/mastery/legendarychampionmastery/masterycrest_level10.png",
+    "sha256": "fb9ce125e3781e7794b7d2c8e2add517f2128aa6d5302e692999709400c81df4"
+  },
+  {
+    "file": "Roles/top.svg",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/svg/position-top-light.svg",
+    "sha256": "2548a0e79d3121b67ab1c9607ed38fca5a09c034d1d50e4e46acbbe492a35849"
+  },
+  {
+    "file": "Roles/jungle.svg",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/svg/position-jungle-light.svg",
+    "sha256": "a0af99cdbddcf83eb3cd764b984c02f689df9f2d4ab52d9ec98e4b2de78b9b64"
+  },
+  {
+    "file": "Roles/middle.svg",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/svg/position-middle-light.svg",
+    "sha256": "95d34d31596f178c751a4200fb596f253ea1ace9a55890e5c00020d30081288b"
+  },
+  {
+    "file": "Roles/bottom.svg",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/svg/position-bottom-light.svg",
+    "sha256": "93e206ef41fce7267fe5f95bbd986d8be8f9080fc6a06bb32d477bfc51a934cd"
+  },
+  {
+    "file": "Roles/utility.svg",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-static-assets/global/default/svg/position-utility-light.svg",
+    "sha256": "da03ccf8d820eabe1feb351c76706adda2cfd2b3a949d746f3957f43e97e2ef7"
+  }
+]
