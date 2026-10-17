@@ -6,7 +6,7 @@ League of Legends için yerel Windows uygulaması. C# / WPF arayüzü; tarayıc�
 
 ## İndir ve kullan
 
-**[HafikLol Windows ZIP paketini indir](https://github.com/NSKingg/HafikLol/releases/latest/download/HafikLol-Windows.zip)** — ZIP’i bir klasöre çıkar ve içindeki `HafikLol.exe` dosyasını aç. Uygulama, kaynak kodu, lisans bildirimleri ve test raporu aynı pakettedir. .NET çalışma zamanı EXE’ye dahildir; EXE tek başına da çalışır.
+**[Windows uygulamasını indir](https://github.com/NSKingg/HafikLol/releases/latest)** — `HafikLol.exe` dosyasını aç. .NET çalışma zamanı EXE’ye dahildir.
 
 Oyuncu aramak için Ayarlar’dan kendi sunucu adresini ve kişisel davet kodunu bir kez ekle. Bu depo herkese açık bir Riot API hizmeti veya davet kodu içermez. Kendi grubun için sunucu kurulumunu aşağıda bulabilirsin.
 
